@@ -1,1 +1,1 @@
-The purpose of this repository is to highlight things that I learn about life, computer science, literature, etc. This repo will be kept private and will help me on my journey of gradual, but constant self improvement.
+The purpose of this repository is to highlight things that I learn about life, computer science, literature, etc. This repo will be kept public and will help me on my journey of gradual, but constant self improvement.
