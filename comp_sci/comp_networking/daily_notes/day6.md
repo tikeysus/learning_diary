@@ -13,7 +13,8 @@
 - Can guarantee minimum transmission rates (some applications require a minimum bandwidth). 
 - Used for real - time applications such as telephony or multiplayer games. 
 
-**TCP/IP refers to a class of transfer layer protocols among which both TCP and UDP are included..**
+**TCP/IP refers to a class of transfer layer protocols among which both TCP and UDP are included.**
+
 **Browsers are responsible for implementing the client side of the HTTP(S) protocol.**
 
 # Types of Connections 
