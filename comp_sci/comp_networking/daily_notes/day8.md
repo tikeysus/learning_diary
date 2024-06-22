@@ -33,4 +33,4 @@ Caching is a very important part of DNS architecture and can mean that a single 
 Popular sites that amass significant traffic have more than one mapping from their hostname to an IP address. During each query, the server will provide a different address from the set of addresses in order to distribute the load equally among this set of addresses. 
 
 
-** Important Note: DNS mappings are not permanent. A host can easily add or exclude an IP address from the set of mappings. ** 
+**Important Note: DNS mappings are not permanent. A host can easily add or exclude an IP address from the set of mappings.** 
